@@ -1,5 +1,5 @@
 
- # <img src="man/logo_header.png" width="1200px">
+ # <img src="logo_header.png" width="1200px">
 
 ## Overview
 
