@@ -11,7 +11,6 @@
 ## Underlying Data
 
 ATAC-Seq experiments were obtained from different sources (ENCODE, GSE164942, GSE96949, TCGA). 
-https://github.com/VanBortleLab/Pol_III_tissue_tumor_atlas/blob/main/files_processing/files_metadata/Tissue_TCGA_atlas_samples_metadata.txt
 Full list: Click [Here](https://github.com/VanBortleLab/Pol_III_tissue_tumor_atlas/blob/main/files_processing/files_metadata/Tissue_TCGA_atlas_samples_metadata.txt)
 
 <details><summary>Example list (<b>click to expand</b>) </summary>
