@@ -1,12 +1,13 @@
 
- # <img src="logo_header.png" width="1200px">
+ # <img src="logo_header.png" width="800px">
 
 ## Overview
 
-**RNA Pol III tissue and tumor atlas** is a 
+We applied a uniform gene-centered framework for scoring RNA polymerase III (Pol III) activity at canonical Pol III-transcribed genes on the basis of chromatin accessibility measured using ATAC-seq. We specifically surveyed ATAC across large-scale data repositories and studies (ENCODE, The Cancer Genome Atlas, as well as GSE96949 and GSE164942) and infer active and inactive gene states following uniform scaling and saturation analysis (ATAC of insufficient depth and saturation at uniform scale were discarded). This repository specifically includes details and links to processed files related to our manuscript:
 
-
-
+    An RNA polymerase III tissue and tumor atlas delineates context- and cancer-specific        transcription patterns and disease signatures
+    Simon Lizarazo et al., (in prep)
+    
 
 ## Underlying Data
 
