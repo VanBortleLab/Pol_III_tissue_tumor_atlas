@@ -1,0 +1,700 @@
+Data_Reference	Data_Origin	SRR_Sample	File_Accession	Experiment_Accession	Paired	Nature	Seqdepth
+ENCSR204SMO.heart_right_ventricle.1_1_1	ENCODE	SRR14102914	ENCFF545CXV	ENCSR204SMO	paired-ended	fastq	413994397
+ENCSR600ZHS.left_colon.1_1_2	ENCODE	SRR14107548	ENCFF250QRP	ENCSR600ZHS	paired-ended	fastq	830549969
+ENCSR670REK.gastroesophageal_sphincter.1_1_1	ENCODE	SRR14107835	ENCFF812DSG	ENCSR670REK	paired-ended	fastq	335818479
+ENCSR685ZMP.right_lobe_of_liver.1_1_2	ENCODE	SRR14107867	ENCFF450VXM	ENCSR685ZMP	paired-ended	fastq	1431172181
+ENCSR542RNG.adrenal_gland.1_1_1	ENCODE	SRR14105636	ENCFF915NRF	ENCSR542RNG	paired-ended	fastq	1133653640
+ENCSR836FIL.right_lobe_of_liver.1_2_1	ENCODE	SRR14104225	ENCFF395QVN	ENCSR836FIL	paired-ended	fastq	1310597965
+ENCSR212LAZ.fallopian_tube.1_1_2	ENCODE	SRR14102989	ENCFF517NJC	ENCSR212LAZ	paired-ended	fastq	731615963
+ENCSR062SVK.right_atrium_auricular_region.1_1_1	ENCODE	SRR10388415	ENCFF138HVL	ENCSR062SVK	paired-ended	fastq	231569813
+ENCSR584AXZ.coronary_artery.1_1_1	ENCODE	SRR14305353	ENCFF049NKX	ENCSR584AXZ	paired-ended	fastq	173365413
+ENCSR157OSO.heart_right_ventricle.1_1_1	ENCODE	SRR14105541	ENCFF162IKK	ENCSR157OSO	paired-ended	fastq	3391149124
+ENCSR948MQC.lower_lobe_of_right_lung.1_1_2	ENCODE	SRR14107231	ENCFF485DGL	ENCSR948MQC	paired-ended	fastq	895686725
+ENCSR695FLC.mucosa_of_gallbladder.1_1_1	ENCODE	SRR14107936	ENCFF111PBJ	ENCSR695FLC	paired-ended	fastq	495474548
+ENCSR303PWB.esophagus_mucosa.1_1_1	ENCODE	SRR14104330	ENCFF250AHR	ENCSR303PWB	paired-ended	fastq	1075729318
+ENCSR390SLL.left_cardiac_atrium.1_2_2	ENCODE	SRR14107258	ENCFF889IVR	ENCSR390SLL	paired-ended	fastq	278801750
+ENCSR565DSD.fallopian_tube.1_1_1	ENCODE	SRR21927359	ENCFF441IYN	ENCSR565DSD	paired-ended	fastq	510691303
+ENCSR439TZT.heart_right_ventricle.1_2_1	ENCODE	SRR14103609	ENCFF741OMI	ENCSR439TZT	paired-ended	fastq	1189000532
+ENCSR212LYK.heart_right_ventricle.1_1_1	ENCODE	SRR14306070	ENCFF343GLF	ENCSR212LYK	paired-ended	fastq	4022882494
+ENCSR548KIL.adrenal_gland.1_1_1	ENCODE	SRR14106063	ENCFF457QZC	ENCSR548KIL	paired-ended	fastq	521569643
+ENCSR609GST.esophagus_muscularis_mucosa.1_1_1	ENCODE	SRR14305698	ENCFF935EXE	ENCSR609GST	paired-ended	fastq	131234821
+ENCSR474XFV.thyroid_gland.1_1_1	ENCODE	SRR14104044	ENCFF033TLP	ENCSR474XFV	paired-ended	fastq	96395527
+ENCSR999NKW.prostate_gland.1_1_1	ENCODE	SRR14306188	ENCFF598USO	ENCSR999NKW	paired-ended	fastq	188998332
+ENCSR848TMJ.heart_left_ventricle.1_1_1	ENCODE	SRR21926706	ENCFF462KWU	ENCSR848TMJ	paired-ended	fastq	753142282
+ENCSR451JSB.heart_left_ventricle.1_1_2	ENCODE	SRR21926749	ENCFF170PPU	ENCSR451JSB	paired-ended	fastq	1052009374
+ENCSR851EBF.heart_left_ventricle.1_1_1	ENCODE	SRR14305744	ENCFF075UOA	ENCSR851EBF	paired-ended	fastq	250495735
+ENCSR899YEP.heart_left_ventricle.1_2_1	ENCODE	SRR21926865	ENCFF779YWW	ENCSR899YEP	paired-ended	fastq	703653167
+ENCSR113MBR.adrenal_gland.1_1_1	ENCODE	SRR14104407	ENCFF051QFS	ENCSR113MBR	paired-ended	fastq	428162249
+ENCSR120MOY.sciatic_nerve.1_1_1	ENCODE	SRR14104529	ENCFF405ULF	ENCSR120MOY	paired-ended	fastq	549539291
+ENCSR653ZWW.bile_duct.1_1_1	ENCODE	SRR21926761	ENCFF800EKO	ENCSR653ZWW	paired-ended	fastq	388303740
+ENCSR775SYU.uterus.1_1_1	ENCODE	SRR14103709	ENCFF194CIT	ENCSR775SYU	paired-ended	fastq	811780562
+ENCSR227FVE.ovary.1_3_1	ENCODE	SRR14103247	ENCFF701ZMO	ENCSR227FVE	paired-ended	fastq	777448164
+ENCSR925LGW.heart_left_ventricle.1_1_2	ENCODE	SRR14106981	ENCFF259DFF	ENCSR925LGW	paired-ended	fastq	1309199433
+ENCSR886VCC.psoas_muscle.1_1_1	ENCODE	SRR14105466	ENCFF056ASO	ENCSR886VCC	paired-ended	fastq	593866846
+ENCSR344ZTM.thoracic_aorta.1_1_1	ENCODE	SRR14305710	ENCFF566LXM	ENCSR344ZTM	paired-ended	fastq	94779225
+ENCSR731ODJ.left_cardiac_atrium.1_1_1	ENCODE	SRR14305436	ENCFF165ONS	ENCSR731ODJ	paired-ended	fastq	260098288
+ENCSR855BMI.Right_ventricle_myocardium_inferior.1_1_1	ENCODE	SRR14104425	ENCFF936ZYB	ENCSR855BMI	paired-ended	fastq	739945673
+ENCSR530XBF.pancreas.1_1_3	ENCODE	SRR14105507	ENCFF185YDO	ENCSR530XBF	paired-ended	fastq	1127269296
+ENCSR668VCT.transverse_colon.1_1_1	ENCODE	SRR14305400	ENCFF974WES	ENCSR668VCT	paired-ended	fastq	367103852
+ENCSR414DVK.adrenal_gland.1_1_1	ENCODE	SRR14306024	ENCFF524RSU	ENCSR414DVK	paired-ended	fastq	225779543
+ENCSR403GBR.heart_right_ventricle.1_1_1	ENCODE	SRR21926602	ENCFF123WGP	ENCSR403GBR	paired-ended	fastq	1596473184
+ENCSR490MSG.ovary.1_1_1	ENCODE	SRR14305070	ENCFF703OJH	ENCSR490MSG	paired-ended	fastq	219165103
+ENCSR297VGU.kidney.1_1_1	ENCODE	SRR21927236	ENCFF196ERT	ENCSR297VGU	paired-ended	fastq	655391768
+ENCSR607BTF.right_lobe_of_liver.1_1_2	ENCODE	SRR14107633	ENCFF917OXV	ENCSR607BTF	paired-ended	fastq	807025683
+ENCSR624ODL.left_lobe_of_liver.1_1_1	ENCODE	SRR14107691	ENCFF511SZJ	ENCSR624ODL	paired-ended	fastq	1208729030
+ENCSR167SYF.cardiac_septum.1_1_3	ENCODE	SRR21927240	ENCFF139SMR	ENCSR167SYF	paired-ended	fastq	293534143
+ENCSR619LHF.sciatic_nerve.1_1_2	ENCODE	SRR21926651	ENCFF123QYX	ENCSR619LHF	paired-ended	fastq	734045770
+ENCSR846VPV.heart_left_ventricle.1_2_2	ENCODE	SRR14305732	ENCFF369GIP	ENCSR846VPV	paired-ended	fastq	169272913
+ENCSR551CSY.mesenteric_fat_pad.1_1_1	ENCODE	SRR14106122	ENCFF839UAN	ENCSR551CSY	paired-ended	fastq	386682922
+ENCSR831KAH.tibial_nerve.1_1_1	ENCODE	SRR14305457	ENCFF310FXX	ENCSR831KAH	paired-ended	fastq	167747567
+ENCSR822BAD.right_cardiac_atrium.1_1_2	ENCODE	SRR21926657	ENCFF399DNW	ENCSR822BAD	paired-ended	fastq	599261570
+ENCSR895SEG.upper_lobe_of_left_lung.1_1_1	ENCODE	SRR21926858	ENCFF694SMZ	ENCSR895SEG	paired-ended	fastq	989612624
+ENCSR516CPW.right_lobe_of_liver.1_1_1	ENCODE	SRR14105316	ENCFF121HNL	ENCSR516CPW	paired-ended	fastq	1241946412
+ENCSR476WNA.ovary.1_1_1	ENCODE	SRR21926834	ENCFF169CRS	ENCSR476WNA	paired-ended	fastq	1529433846
+ENCSR923VTG.lower_lobe_of_right_lung.1_1_1	ENCODE	SRR21926952	ENCFF878NVN	ENCSR923VTG	paired-ended	fastq	1079388110
+ENCSR213DBU.posterior_vena_cava.1_2_2	ENCODE	SRR21926661	ENCFF241CGK	ENCSR213DBU	paired-ended	fastq	598988257
+ENCSR040DJK.psoas_muscle.1_1_1	ENCODE	SRR14103522	ENCFF537OEJ	ENCSR040DJK	paired-ended	fastq	695505132
+ENCSR241OBO.adrenal_gland.1_1_3	ENCODE	SRR14103501	ENCFF817MYO	ENCSR241OBO	paired-ended	fastq	1059134094
+ENCSR153IUB.mucosa_of_urinary_bladder.1_1_1	ENCODE	SRR14105511	ENCFF358DJF	ENCSR153IUB	paired-ended	fastq	639802740
+ENCSR996ZCR.ovary.1_1_1	ENCODE	SRR14107611	ENCFF507NXA	ENCSR996ZCR	paired-ended	fastq	790397172
+ENCSR452OSK.right_cardiac_atrium.1_1_1	ENCODE	SRR14306125	ENCFF993EXM	ENCSR452OSK	paired-ended	fastq	320681426
+ENCSR238VHV.fallopian_tube.1_1_1	ENCODE	SRR21927064	ENCFF335AMX	ENCSR238VHV	paired-ended	fastq	768771690
+ENCSR286STX.heart_left_ventricle.1_1_2	ENCODE	SRR14104162	ENCFF083XCZ	ENCSR286STX	paired-ended	fastq	2405020806
+ENCSR769DGC.heart_left_ventricle.1_2_1	ENCODE	SRR21927515	ENCFF792HZQ	ENCSR769DGC	paired-ended	fastq	1060875584
+ENCSR496PPU.mucosa_of_descending_colon.1_1_1	ENCODE	SRR14104394	ENCFF191IRU	ENCSR496PPU	paired-ended	fastq	1172613529
+ENCSR295TFY.aorta.1_1_1	ENCODE	SRR21927206	ENCFF879PLY	ENCSR295TFY	paired-ended	fastq	586661569
+ENCSR325NFE.bile_duct.1_2_2	ENCODE	SRR21927415	ENCFF274MOY	ENCSR325NFE	paired-ended	fastq	1324915362
+ENCSR533WFB.sciatic_nerve.1_1_1	ENCODE	SRR21927299	ENCFF859VNN	ENCSR533WFB	paired-ended	fastq	312184474
+ENCSR765MXG.body_of_pancreas.1_1_1	ENCODE	SRR14103619	ENCFF595ZAG	ENCSR765MXG	paired-ended	fastq	89938283
+ENCSR337UIU.stomach.1_1_1	ENCODE	SRR14105375	ENCFF326XJM	ENCSR337UIU	paired-ended	fastq	411050705
+ENCSR491VKV.heart_right_ventricle.1_1_1	ENCODE	SRR21926926	ENCFF954BEE	ENCSR491VKV	paired-ended	fastq	3004205994
+ENCSR548QCP.sigmoid_colon.1_1_1	ENCODE	SRR10389003	ENCFF138HKP	ENCSR548QCP	paired-ended	fastq	362217949
+ENCSR914DTI.thyroid_gland.1_1_1	ENCODE	SRR14305903	ENCFF059UER	ENCSR914DTI	paired-ended	fastq	223137150
+ENCSR761TKU.transverse_colon.1_1_1	ENCODE	SRR14305085	ENCFF312UDS	ENCSR761TKU	paired-ended	fastq	251327701
+ENCSR647AOY.lung.1_2_2	ENCODE	SRR14305859	ENCFF494CDB	ENCSR647AOY	paired-ended	fastq	80231781
+ENCSR745CGG.heart_left_ventricle.1_1_1	ENCODE	SRR21927495	ENCFF265UOQ	ENCSR745CGG	paired-ended	fastq	1884686677
+ENCSR872MAO.ovary.1_1_1	ENCODE	SRR21926785	ENCFF529EHE	ENCSR872MAO	paired-ended	fastq	103127954
+ENCSR823ZCR.gastrocnemius_medialis.1_1_1	ENCODE	SRR14305525	ENCFF433SND	ENCSR823ZCR	paired-ended	fastq	268373585
+ENCSR918TVE.pancreas.1_1_1	ENCODE	SRR14106905	ENCFF716LWT	ENCSR918TVE	paired-ended	fastq	282327904
+ENCSR133WJY.left_ventricle_myocardium_superior.1_1_1	ENCODE	SRR14105364	ENCFF158CDA	ENCSR133WJY	paired-ended	fastq	5396760590
+ENCSR174MLD.bile_duct.1_1_1	ENCODE	SRR21927256	ENCFF490YAX	ENCSR174MLD	paired-ended	fastq	505112900
+ENCSR251POP.pancreas.1_1_1	ENCODE	SRR14103634	ENCFF177ZDO	ENCSR251POP	paired-ended	fastq	881564644
+ENCSR682ETE.left_lung.1_1_1	ENCODE	SRR14107858	ENCFF959HPE	ENCSR682ETE	paired-ended	fastq	1239781866
+ENCSR399OSE.heart_left_ventricle.1_1_2	ENCODE	SRR14107418	ENCFF167ZZE	ENCSR399OSE	paired-ended	fastq	2643980923
+ENCSR491VXJ.mucosa_of_descending_colon.1_1_2	ENCODE	SRR14104320	ENCFF123YRJ	ENCSR491VXJ	paired-ended	fastq	902356409
+ENCSR890DWH.psoas_muscle.1_1_1	ENCODE	SRR14105545	ENCFF948HEP	ENCSR890DWH	paired-ended	fastq	396284975
+ENCSR330WUK.left_cardiac_atrium.1_1_1	ENCODE	SRR21927435	ENCFF328BFO	ENCSR330WUK	paired-ended	fastq	319691173
+ENCSR913FZQ.posterior_vena_cava.1_1_2	ENCODE	SRR21926880	ENCFF163JFY	ENCSR913FZQ	paired-ended	fastq	346633510
+ENCSR225FZH.heart_left_ventricle.1_1_1	ENCODE	SRR21927005	ENCFF703FBG	ENCSR225FZH	paired-ended	fastq	1059693760
+ENCSR404LLJ.transverse_colon.1_1_1	ENCODE	SRR14103013	ENCFF574UTU	ENCSR404LLJ	paired-ended	fastq	439834915
+ENCSR540BML.subcutaneous_adipose_tissue.1_1_1	ENCODE	SRR14305229	ENCFF215GFE	ENCSR540BML	paired-ended	fastq	396696701
+ENCSR788TRR.omental_fat_pad.1_1_1	ENCODE	SRR14305202	ENCFF103VYG	ENCSR788TRR	paired-ended	fastq	368011960
+ENCSR705RZX.uterus.1_1_1	ENCODE	SRR21927181	ENCFF561CBN	ENCSR705RZX	paired-ended	fastq	490304809
+ENCSR774NXA.psoas_muscle.1_1_1	ENCODE	SRR14103673	ENCFF845OUV	ENCSR774NXA	paired-ended	fastq	833771306
+ENCSR204PZT.heart_left_ventricle.1_1_1	ENCODE	SRR21926598	ENCFF245YIM	ENCSR204PZT	paired-ended	fastq	1493470429
+ENCSR308HPZ.gastrocnemius_medialis.1_1_1	ENCODE	SRR14104383	ENCFF891RRQ	ENCSR308HPZ	paired-ended	fastq	223325638
+ENCSR201FIW.thyroid_gland.1_1_1	ENCODE	SRR14102883	ENCFF513OIA	ENCSR201FIW	paired-ended	fastq	243295978
+ENCSR851SBY.stomach.1_1_1	ENCODE	SRR14305749	ENCFF521ITF	ENCSR851SBY	paired-ended	fastq	316959807
+ENCSR553LAZ.adrenal_gland.1_2_1	ENCODE	SRR14106942	ENCFF171DIZ	ENCSR553LAZ	paired-ended	fastq	1365574430
+ENCSR392UJM.ovary.1_1_2	ENCODE	SRR14107341	ENCFF698AXZ	ENCSR392UJM	paired-ended	fastq	2173795762
+ENCSR327DCG.heart_right_ventricle.1_1_1	ENCODE	SRR21927430	ENCFF467PQQ	ENCSR327DCG	paired-ended	fastq	635067400
+ENCSR571JFO.ovary.1_1_1	ENCODE	SRR21927374	ENCFF250NSN	ENCSR571JFO	paired-ended	fastq	472909617
+ENCSR078EBD.spleen.1_1_1	ENCODE	SRR14305318	ENCFF391IHY	ENCSR078EBD	paired-ended	fastq	272382476
+ENCSR355SGJ.sigmoid_colon.1_1_1	ENCODE	SRR14305369	ENCFF775DFR	ENCSR355SGJ	paired-ended	fastq	312294227
+ENCSR086OGH.sigmoid_colon.1_1_1	ENCODE	SRR14305482	ENCFF332SCG	ENCSR086OGH	paired-ended	fastq	298246166
+ENCSR946MAI.left_ventricle_myocardium_inferior.1_1_1	ENCODE	SRR21927001	ENCFF691LXK	ENCSR946MAI	paired-ended	fastq	119568170
+ENCSR952SPO.right_lobe_of_liver.1_1_1	ENCODE	SRR14107273	ENCFF521RQX	ENCSR952SPO	paired-ended	fastq	1289523424
+ENCSR548SSP.mucosa_of_urinary_bladder.1_1_1	ENCODE	SRR21927339	ENCFF751EVM	ENCSR548SSP	paired-ended	fastq	598160553
+ENCSR072UYN.sciatic_nerve.1_1_1	ENCODE	SRR14103950	ENCFF581IZG	ENCSR072UYN	paired-ended	fastq	697105991
+ENCSR154UWN.psoas_muscle.1_1_3	ENCODE	SRR21927198	ENCFF717ZBG	ENCSR154UWN	paired-ended	fastq	214137003
+ENCSR808ZMK.pancreas.1_1_1	ENCODE	SRR14104133	ENCFF500NOJ	ENCSR808ZMK	paired-ended	fastq	617276149
+ENCSR117PYB.heart_left_ventricle.1_1_1	ENCODE	SRR14305750	ENCFF549AFY	ENCSR117PYB	paired-ended	fastq	230655076
+ENCSR310RJN.heart_left_ventricle.1_1_1	ENCODE	SRR14104417	ENCFF064TFG	ENCSR310RJN	paired-ended	fastq	1604544233
+ENCSR689SDA.gastrocnemius_medialis.1_1_1	ENCODE	SRR14306060	ENCFF968KAQ	ENCSR689SDA	paired-ended	fastq	169033144
+ENCSR096BPX.esophagus_squamous_epithelium.1_1_1	ENCODE	SRR14305456	ENCFF323WYT	ENCSR096BPX	paired-ended	fastq	151104886
+ENCSR310UDW.left_cardiac_atrium.1_1_1	ENCODE	SRR14104444	ENCFF023KVQ	ENCSR310UDW	paired-ended	fastq	1280982820
+ENCSR710SMN.heart_right_ventricle.1_1_1	ENCODE	SRR14103106	ENCFF135EZA	ENCSR710SMN	paired-ended	fastq	267468191
+ENCSR158KCS.spleen.1_1_2	ENCODE	SRR21927220	ENCFF555GVX	ENCSR158KCS	paired-ended	fastq	691699666
+ENCSR979TCG.spleen.1_1_1	ENCODE	SRR21927268	ENCFF522ESP	ENCSR979TCG	paired-ended	fastq	748267122
+ENCSR990NNX.upper_lobe_of_right_lung.1_1_1	ENCODE	SRR14107592	ENCFF632QUK	ENCSR990NNX	paired-ended	fastq	1337331592
+ENCSR074WMH.Right_ventricle_myocardium_superior.1_1_1	ENCODE	SRR14305293	ENCFF481FUD	ENCSR074WMH	paired-ended	fastq	1082922186
+ENCSR437OOJ.heart_right_ventricle.1_1_1	ENCODE	SRR14103575	ENCFF031DZC	ENCSR437OOJ	paired-ended	fastq	1628213075
+ENCSR555ZDH.lower_lobe_of_left_lung.1_1_1	ENCODE	SRR14107021	ENCFF367UWY	ENCSR555ZDH	paired-ended	fastq	1987152485
+ENCSR213YPO.right_cardiac_atrium.1_1_1	ENCODE	SRR14103038	ENCFF157JQN	ENCSR213YPO	paired-ended	fastq	2164122737
+ENCSR814RGG.ureter.1_1_1	ENCODE	SRR21926620	ENCFF898PFN	ENCSR814RGG	paired-ended	fastq	607102710
+ENCSR415LEB.jejunum.1_2_2	ENCODE	SRR21926675	ENCFF639LTR	ENCSR415LEB	paired-ended	fastq	309351017
+ENCSR552QUA.posterior_vena_cava.1_2_1	ENCODE	SRR14106149	ENCFF349HYU	ENCSR552QUA	paired-ended	fastq	1136481725
+ENCSR593YFB.heart_left_ventricle.1_1_1	ENCODE	SRR21927398	ENCFF225URM	ENCSR593YFB	paired-ended	fastq	169329239
+ENCSR374ZRW.heart_right_ventricle.1_1_1	ENCODE	SRR21927527	ENCFF622RUV	ENCSR374ZRW	paired-ended	fastq	1448817767
+ENCSR970UNF.colonic_mucosa.1_1_1	ENCODE	SRR14107489	ENCFF631QOO	ENCSR970UNF	paired-ended	fastq	1643492547
+ENCSR386HAZ.transverse_colon.1_1_1	ENCODE	SRR14305967	ENCFF956PUF	ENCSR386HAZ	paired-ended	fastq	374254038
+ENCSR955JSO.breast_epithelium.1_1_1	ENCODE	SRR14306049	ENCFF011MBI	ENCSR955JSO	paired-ended	fastq	291120801
+ENCSR260ZIV.gastroesophageal_sphincter.1_1_1	ENCODE	SRR14305054	ENCFF553SEZ	ENCSR260ZIV	paired-ended	fastq	291517725
+ENCSR651SOJ.adrenal_gland.1_1_1	ENCODE	SRR14107786	ENCFF612ZOQ	ENCSR651SOJ	paired-ended	fastq	1637981851
+ENCSR736CIN.left_cardiac_atrium.1_2_1	ENCODE	SRR21927474	ENCFF528KGY	ENCSR736CIN	paired-ended	fastq	422919623
+ENCSR177JWR.right_cardiac_atrium.1_1_2	ENCODE	SRR14106716	ENCFF731XXU	ENCSR177JWR	paired-ended	fastq	1933038018
+ENCSR630REB.tibial_artery.1_1_1	ENCODE	SRR14107713	ENCFF348JLD	ENCSR630REB	paired-ended	fastq	340492010
+ENCSR773USD.body_of_pancreas.1_1_1	ENCODE	SRR14305137	ENCFF538JTF	ENCSR773USD	paired-ended	fastq	187671285
+ENCSR242QRV.upper_lobe_of_left_lung.1_1_1	ENCODE	SRR21927095	ENCFF161CPE	ENCSR242QRV	paired-ended	fastq	806681874
+ENCSR124NNL.liver.1_2_1	ENCODE	SRR21927028	ENCFF516RWX	ENCSR124NNL	paired-ended	fastq	841179603
+ENCSR694OWY.spleen.1_1_1	ENCODE	SRR21927134	ENCFF629GLL	ENCSR694OWY	paired-ended	fastq	351346251
+ENCSR846ZBX.breast_epithelium.1_1_1	ENCODE	SRR10388801	ENCFF216RFR	ENCSR846ZBX	paired-ended	fastq	289588276
+ENCSR258JCL.gastrocnemius_medialis.1_1_1	ENCODE	SRR14103684	ENCFF982ITD	ENCSR258JCL	paired-ended	fastq	197816047
+ENCSR053SGP.heart_right_ventricle.1_1_1	ENCODE	SRR14103759	ENCFF448CXQ	ENCSR053SGP	paired-ended	fastq	1574756494
+ENCSR210NKB.testis.1_1_1	ENCODE	SRR14306058	ENCFF357PYB	ENCSR210NKB	paired-ended	fastq	211987156
+ENCSR373TDL.right_lobe_of_liver.1_1_1	ENCODE	SRR14305414	ENCFF035UUL	ENCSR373TDL	paired-ended	fastq	296516855
+ENCSR563ZNI.heart_right_ventricle.1_2_1	ENCODE	SRR14107116	ENCFF578KEL	ENCSR563ZNI	paired-ended	fastq	2395907875
+ENCSR522FGI.heart_right_ventricle.1_1_1	ENCODE	SRR14105424	ENCFF317BOO	ENCSR522FGI	paired-ended	fastq	601569075
+ENCSR864ADD.adrenal_gland.1_1_1	ENCODE	SRR14104521	ENCFF803FYH	ENCSR864ADD	paired-ended	fastq	276742747
+ENCSR705KEB.pancreas.1_1_2	ENCODE	SRR14103048	ENCFF177CAC	ENCSR705KEB	paired-ended	fastq	166358701
+ENCSR152PSA.body_of_pancreas.1_1_1	ENCODE	SRR14305840	ENCFF524LVZ	ENCSR152PSA	paired-ended	fastq	228329038
+ENCSR515CDW.body_of_pancreas.1_1_1	ENCODE	SRR14305136	ENCFF703BZC	ENCSR515CDW	paired-ended	fastq	125859783
+ENCSR133CMC.heart_right_ventricle.1_1_1	ENCODE	SRR14105324	ENCFF139GIQ	ENCSR133CMC	paired-ended	fastq	1092964897
+ENCSR654UYP.breast_epithelium.1_1_1	ENCODE	SRR14305402	ENCFF210QPG	ENCSR654UYP	paired-ended	fastq	358166408
+ENCSR846VLJ.sigmoid_colon.1_1_1	ENCODE	SRR14104376	ENCFF574WBE	ENCSR846VLJ	paired-ended	fastq	389035078
+ENCSR182VGJ.spleen.1_1_1	ENCODE	SRR21927311	ENCFF787CTN	ENCSR182VGJ	paired-ended	fastq	768237834
+ENCSR802GEV.cerebellum.1_1_1	ENCODE	SRR14104080	ENCFF520LZN	ENCSR802GEV	single-ended	fastq	197339181
+ENCSR729FNL.posterior_cingulate_cortex.1_1_1	ENCODE	SRR14103272	ENCFF903DYC	ENCSR729FNL	single-ended	fastq	213588090
+ATAC_brain_anterior_cingulate_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367812			paired-ended	fastq	75831560
+ATAC_brain_anterior_cingulate_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367719			paired-ended	fastq	65255993
+ATAC_brain_anterior_cingulate_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367767			paired-ended	fastq	118013940
+ATAC_brain_anterior_cingulate_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367743			paired-ended	fastq	62045998
+ATAC_brain_anterior_cingulate_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367790			paired-ended	fastq	88409339
+ATAC_brain_anterior_cingulate_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367799			paired-ended	fastq	163890003
+ATAC_brain_anterior_cingulate_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367708			paired-ended	fastq	140691701
+ATAC_brain_anterior_cingulate_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367755			paired-ended	fastq	67814502
+ATAC_brain_anterior_cingulate_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367730			paired-ended	fastq	194833316
+ATAC_brain_anterior_cingulate_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367779			paired-ended	fastq	96242436
+ATAC_brain_basal_amygdala_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367813			paired-ended	fastq	86042109
+ATAC_brain_basal_amygdala_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367800			paired-ended	fastq	142761664
+ATAC_brain_basal_amygdala_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367731			paired-ended	fastq	125774050
+ATAC_brain_dorsolateral_prefrontal_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367814			paired-ended	fastq	96894004
+ATAC_brain_dorsolateral_prefrontal_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367720			paired-ended	fastq	96316067
+ATAC_brain_dorsolateral_prefrontal_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367768			paired-ended	fastq	185073709
+ATAC_brain_dorsolateral_prefrontal_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367744			paired-ended	fastq	91674076
+ATAC_brain_dorsolateral_prefrontal_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367791			paired-ended	fastq	114488553
+ATAC_brain_dorsolateral_prefrontal_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367801			paired-ended	fastq	108787786
+ATAC_brain_dorsolateral_prefrontal_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367709			paired-ended	fastq	124858317
+ATAC_brain_dorsolateral_prefrontal_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367756			paired-ended	fastq	93546149
+ATAC_brain_dorsolateral_prefrontal_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367732			paired-ended	fastq	132632029
+ATAC_brain_dorsolateral_prefrontal_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367780			paired-ended	fastq	125223147
+ATAC_brain_hippocampus_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367815			paired-ended	fastq	88497455
+ATAC_brain_hippocampus_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367769			paired-ended	fastq	114048715
+ATAC_brain_hippocampus_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367745			paired-ended	fastq	101442470
+ATAC_brain_hippocampus_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367802			paired-ended	fastq	75427458
+ATAC_brain_hippocampus_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367757			paired-ended	fastq	67444695
+ATAC_brain_hippocampus_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367733			paired-ended	fastq	84779263
+ATAC_brain_inferior_temporal_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367817			paired-ended	fastq	69698023
+ATAC_brain_inferior_temporal_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367722			paired-ended	fastq	106862323
+ATAC_brain_inferior_temporal_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367771			paired-ended	fastq	124400751
+ATAC_brain_inferior_temporal_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367747			paired-ended	fastq	52952384
+ATAC_brain_inferior_temporal_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367793			paired-ended	fastq	144163896
+ATAC_brain_inferior_temporal_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367804			paired-ended	fastq	96148060
+ATAC_brain_inferior_temporal_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367711			paired-ended	fastq	77981582
+ATAC_brain_inferior_temporal_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367759			paired-ended	fastq	31015763
+ATAC_brain_inferior_temporal_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367735			paired-ended	fastq	112399478
+ATAC_brain_inferior_temporal_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367782			paired-ended	fastq	135987991
+ATAC_brain_insula_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367816			paired-ended	fastq	110904643
+ATAC_brain_insula_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367721			paired-ended	fastq	101671018
+ATAC_brain_insula_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367770			paired-ended	fastq	165683071
+ATAC_brain_insula_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367746			paired-ended	fastq	143750823
+ATAC_brain_insula_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367792			paired-ended	fastq	80725654
+ATAC_brain_insula_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367803			paired-ended	fastq	72641129
+ATAC_brain_insula_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367710			paired-ended	fastq	210572434
+ATAC_brain_insula_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367758			paired-ended	fastq	90015487
+ATAC_brain_insula_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367734			paired-ended	fastq	143607698
+ATAC_brain_insula_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367781			paired-ended	fastq	123347314
+ATAC_brain_medial_orbitofrontal_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367819			paired-ended	fastq	104733041
+ATAC_brain_medial_orbitofrontal_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367724			paired-ended	fastq	86093447
+ATAC_brain_medial_orbitofrontal_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367773			paired-ended	fastq	84879511
+ATAC_brain_medial_orbitofrontal_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367750			paired-ended	fastq	79831089
+ATAC_brain_medial_orbitofrontal_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367794			paired-ended	fastq	146244814
+ATAC_brain_medial_orbitofrontal_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367806			paired-ended	fastq	77565359
+ATAC_brain_medial_orbitofrontal_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367713			paired-ended	fastq	88204025
+ATAC_brain_medial_orbitofrontal_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367761			paired-ended	fastq	109127798
+ATAC_brain_medial_orbitofrontal_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367738			paired-ended	fastq	106944216
+ATAC_brain_medial_orbitofrontal_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367784			paired-ended	fastq	86923538
+ATAC_brain_mediodorsal_thalamus_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367818			paired-ended	fastq	100125959
+ATAC_brain_mediodorsal_thalamus_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367723			paired-ended	fastq	101613567
+ATAC_brain_mediodorsal_thalamus_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367748			paired-ended	fastq	106798265
+ATAC_brain_mediodorsal_thalamus_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367805			paired-ended	fastq	50404806
+ATAC_brain_mediodorsal_thalamus_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367712			paired-ended	fastq	103296095
+ATAC_brain_mediodorsal_thalamus_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367736			paired-ended	fastq	92967343
+ATAC_brain_mediodorsal_thalamus_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367783			paired-ended	fastq	113577043
+ATAC_brain_nucleus_accumbens_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367749			paired-ended	fastq	125584859
+ATAC_brain_nucleus_accumbens_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367737			paired-ended	fastq	111730574
+ATAC_brain_posterior_superior_temporal_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367823			paired-ended	fastq	70361890
+ATAC_brain_posterior_superior_temporal_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367728			paired-ended	fastq	80174565
+ATAC_brain_posterior_superior_temporal_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367777			paired-ended	fastq	77226745
+ATAC_brain_posterior_superior_temporal_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367753			paired-ended	fastq	58252770
+ATAC_brain_posterior_superior_temporal_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367797			paired-ended	fastq	92814081
+ATAC_brain_posterior_superior_temporal_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367810			paired-ended	fastq	75315914
+ATAC_brain_posterior_superior_temporal_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367717			paired-ended	fastq	28082143
+ATAC_brain_posterior_superior_temporal_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367765			paired-ended	fastq	48916055
+ATAC_brain_posterior_superior_temporal_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367741			paired-ended	fastq	66833045
+ATAC_brain_posterior_superior_temporal_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367788			paired-ended	fastq	109675022
+ATAC_brain_primary_motor_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367820			paired-ended	fastq	118892714
+ATAC_brain_primary_motor_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367725			paired-ended	fastq	114380573
+ATAC_brain_primary_motor_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367774			paired-ended	fastq	115710042
+ATAC_brain_primary_motor_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367795			paired-ended	fastq	146343858
+ATAC_brain_primary_motor_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367807			paired-ended	fastq	83298880
+ATAC_brain_primary_motor_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367714			paired-ended	fastq	109813879
+ATAC_brain_primary_motor_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367762			paired-ended	fastq	131976188
+ATAC_brain_primary_motor_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367739			paired-ended	fastq	65592146
+ATAC_brain_primary_motor_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367785			paired-ended	fastq	62854337
+ATAC_brain_primary_visual_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367822			paired-ended	fastq	99404436
+ATAC_brain_primary_visual_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367727			paired-ended	fastq	164360444
+ATAC_brain_primary_visual_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367776			paired-ended	fastq	95624871
+ATAC_brain_primary_visual_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367752			paired-ended	fastq	145552700
+ATAC_brain_primary_visual_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367796			paired-ended	fastq	139517009
+ATAC_brain_primary_visual_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367809			paired-ended	fastq	98815768
+ATAC_brain_primary_visual_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367716			paired-ended	fastq	34602329
+ATAC_brain_primary_visual_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367764			paired-ended	fastq	17873254
+ATAC_brain_primary_visual_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367787			paired-ended	fastq	82377899
+ATAC_brain_putamen_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367821			paired-ended	fastq	118485234
+ATAC_brain_putamen_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367726			paired-ended	fastq	87570197
+ATAC_brain_putamen_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367775			paired-ended	fastq	154436848
+ATAC_brain_putamen_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367751			paired-ended	fastq	161697764
+ATAC_brain_putamen_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367808			paired-ended	fastq	112429940
+ATAC_brain_putamen_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367715			paired-ended	fastq	90024414
+ATAC_brain_putamen_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367763			paired-ended	fastq	91979465
+ATAC_brain_putamen_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367740			paired-ended	fastq	108723164
+ATAC_brain_putamen_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367786			paired-ended	fastq	90807657
+ATAC_brain_ventrolateral_prefrontal_cortex_Neuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367824			paired-ended	fastq	84760097
+ATAC_brain_ventrolateral_prefrontal_cortex_Neuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367729			paired-ended	fastq	104368205
+ATAC_brain_ventrolateral_prefrontal_cortex_Neuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367778			paired-ended	fastq	140040494
+ATAC_brain_ventrolateral_prefrontal_cortex_Neuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367754			paired-ended	fastq	101844926
+ATAC_brain_ventrolateral_prefrontal_cortex_Neuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367798			paired-ended	fastq	110877800
+ATAC_brain_ventrolateral_prefrontal_cortex_NonNeuronal_female_age_22_untreated_1_1_1	GSE96949	SRR5367811			paired-ended	fastq	46845354
+ATAC_brain_ventrolateral_prefrontal_cortex_NonNeuronal_male_age_19_untreated_1_1_1	GSE96949	SRR5367718			paired-ended	fastq	52248189
+ATAC_brain_ventrolateral_prefrontal_cortex_NonNeuronal_male_age_20_untreated_1_1_1	GSE96949	SRR5367766			paired-ended	fastq	70621802
+ATAC_brain_ventrolateral_prefrontal_cortex_NonNeuronal_male_age_22_untreated_1_1_1	GSE96949	SRR5367742			paired-ended	fastq	105744219
+ATAC_brain_ventrolateral_prefrontal_cortex_NonNeuronal_male_age_28_untreated_1_1_1	GSE96949	SRR5367789			paired-ended	fastq	80575480
+Liver_female_12_797	GSE164942	SRR13439703			paired-ended	fastq	611440499
+Liver_female_16_753	GSE164942	SRR13439643			paired-ended	fastq	780743877
+Liver_female_17_459	GSE164942	SRR13439673			paired-ended	fastq	779134143
+Liver_female_17_651	GSE164942	SRR13439649			paired-ended	fastq	859281234
+Liver_female_30_767	GSE164942	SRR13439659			paired-ended	fastq	835331203
+Liver_female_35_662	GSE164942	SRR13439657			paired-ended	fastq	638017483
+Liver_female_36_793	GSE164942	SRR13439697			paired-ended	fastq	1300560747
+Liver_female_49_670B	GSE164942	SRR13439648			paired-ended	fastq	665074584
+Liver_female_49_683	GSE164942	SRR13439652			paired-ended	fastq	748938713
+Liver_female_50_485	GSE164942	SRR13439684			paired-ended	fastq	1038161477
+Liver_female_7_438	GSE164942	SRR13439667			paired-ended	fastq	1200763517
+Liver_male_16_786	GSE164942	SRR13439633			paired-ended	fastq	762385932
+Liver_male_16_794	GSE164942	SRR13439637			paired-ended	fastq	681850509
+Liver_male_20_713	GSE164942	SRR13439685			paired-ended	fastq	549153482
+Liver_male_28_365B	GSE164942	SRR13439626			paired-ended	fastq	588823016
+Liver_male_28_469	GSE164942	SRR13439628			paired-ended	fastq	411577798
+Liver_male_43_348	GSE164942	SRR13439661			paired-ended	fastq	772168242
+Liver_male_50_795	GSE164942	SRR13439641			paired-ended	fastq	590191938
+Liver_male_54_684B	GSE164942	SRR13439635			paired-ended	fastq	643225878
+Liver_male_58_715	GSE164942	SRR13439691			paired-ended	fastq	904040200
+TCGA-ACC-265	TCGA		TCGA-OR-A5J9-01A			bam	1147625333
+TCGA-ACC-266	TCGA		TCGA-PK-A5H8-01A			bam	327847535
+TCGA-ACC-267	TCGA		TCGA-OR-A5KX-01A			bam	342185099
+TCGA-ACC-310	TCGA		TCGA-OR-A5J3-01A			bam	322721012
+TCGA-ACC-311	TCGA		TCGA-OR-A5JZ-01A			bam	567679219
+TCGA-ACC-341	TCGA		TCGA-OR-A5J2-01A			bam	811387351
+TCGA-ACC-406	TCGA		TCGA-OR-A5J6-01A			bam	315861255
+TCGA-ACC-90	TCGA		TCGA-PA-A5YG-01A			bam	1866672203
+TCGA-BLCA-136	TCGA		TCGA-FD-A3SR-01A			bam	302073630
+TCGA-BLCA-140	TCGA		TCGA-H4-A2HO-01C			bam	372631643
+TCGA-BLCA-201	TCGA		TCGA-BL-A13J-01A			bam	284962802
+TCGA-BLCA-239	TCGA		TCGA-CU-A3YL-01A			bam	319452107
+TCGA-BLCA-248	TCGA		TCGA-GV-A3JW-01A			bam	237186820
+TCGA-BLCA-307	TCGA		TCGA-DK-A1AD-01A			bam	297618177
+TCGA-BLCA-322	TCGA		TCGA-BL-A3JM-01A			bam	277999783
+TCGA-BLCA-71	TCGA		TCGA-GD-A3OQ-01A			bam	285761047
+TCGA-BLCA-77	TCGA		TCGA-CF-A3MI-01A			bam	413602536
+TCGA-BLCA-95	TCGA		TCGA-CF-A1HR-01A			bam	235657827
+TCGA-BRCA-100	TCGA		TCGA-A2-A0EV-01A			bam	143909095
+TCGA-BRCA-101	TCGA		TCGA-A8-A06N-01A			bam	294533490
+TCGA-BRCA-109	TCGA		TCGA-C8-A12O-01A			bam	325481700
+TCGA-BRCA-11	TCGA		TCGA-BH-A1EV-01A			bam	317092848
+TCGA-BRCA-110	TCGA		TCGA-AR-A0TP-01A			bam	326859952
+TCGA-BRCA-111	TCGA		TCGA-AO-A03N-01B			bam	311042925
+TCGA-BRCA-112	TCGA		TCGA-A2-A0YH-01A			bam	300311499
+TCGA-BRCA-113	TCGA		TCGA-A2-A0SW-01A			bam	262473591
+TCGA-BRCA-114	TCGA		TCGA-A2-A0T5-01A			bam	317317469
+TCGA-BRCA-115	TCGA		TCGA-A2-A0EX-01A			bam	278504300
+TCGA-BRCA-118	TCGA		TCGA-AQ-A04L-01A			bam	324548479
+TCGA-BRCA-12	TCGA		TCGA-BH-A0HP-01A			bam	309080163
+TCGA-BRCA-150	TCGA		TCGA-A2-A0YF-01A			bam	313475497
+TCGA-BRCA-151	TCGA		TCGA-BH-A0BZ-01A			bam	424422477
+TCGA-BRCA-152	TCGA		TCGA-AO-A03L-01A			bam	453259399
+TCGA-BRCA-153	TCGA		TCGA-AR-A0U0-01A			bam	328049612
+TCGA-BRCA-183	TCGA		TCGA-AO-A12D-01A			bam	737368536
+TCGA-BRCA-184	TCGA		TCGA-A7-A13F-01A			bam	284086436
+TCGA-BRCA-185	TCGA		TCGA-A2-A0YC-01A			bam	296136495
+TCGA-BRCA-186	TCGA		TCGA-AO-A124-01A			bam	307589175
+TCGA-BRCA-191	TCGA		TCGA-AR-A0U4-01A			bam	276528050
+TCGA-BRCA-192	TCGA		TCGA-BH-A0C1-01A			bam	110364741
+TCGA-BRCA-193	TCGA		TCGA-BH-A0B5-01A			bam	309076090
+TCGA-BRCA-194	TCGA		TCGA-A2-A0YJ-01A			bam	319083846
+TCGA-BRCA-208	TCGA		TCGA-C8-A12Y-01A			bam	264806288
+TCGA-BRCA-209	TCGA		TCGA-C8-A12U-01A			bam	270666501
+TCGA-BRCA-210	TCGA		TCGA-A2-A0T4-01A			bam	210700941
+TCGA-BRCA-211	TCGA		TCGA-C8-A137-01A			bam	315503624
+TCGA-BRCA-212	TCGA		TCGA-S3-AA0Z-01A			bam	314158601
+TCGA-BRCA-213	TCGA		TCGA-C8-A12Q-01A			bam	390484153
+TCGA-BRCA-214	TCGA		TCGA-A2-A0EY-01A			bam	313200554
+TCGA-BRCA-215	TCGA		TCGA-A2-A0ET-01A			bam	161222813
+TCGA-BRCA-216	TCGA		TCGA-AO-A0JG-01A			bam	376930172
+TCGA-BRCA-217	TCGA		TCGA-BH-A0BA-01A			bam	222358425
+TCGA-BRCA-218	TCGA		TCGA-AO-A12F-01A			bam	345026679
+TCGA-BRCA-244	TCGA		TCGA-BH-A0DV-01A			bam	331881228
+TCGA-BRCA-261	TCGA		TCGA-AO-A0J8-01A			bam	219387856
+TCGA-BRCA-282	TCGA		TCGA-A2-A0YK-01A			bam	232714612
+TCGA-BRCA-283	TCGA		TCGA-BH-A0DL-01A			bam	362350344
+TCGA-BRCA-284	TCGA		TCGA-3C-AALJ-01A			bam	152217671
+TCGA-BRCA-285	TCGA		TCGA-A2-A0YT-01A			bam	127431491
+TCGA-BRCA-286	TCGA		TCGA-A2-A0YL-01A			bam	258741887
+TCGA-BRCA-287	TCGA		TCGA-A7-A0CH-01A			bam	326021481
+TCGA-BRCA-288	TCGA		TCGA-C8-A12T-01A			bam	470180674
+TCGA-BRCA-289	TCGA		TCGA-A2-A0YG-01A			bam	245768473
+TCGA-BRCA-290	TCGA		TCGA-C8-A12M-01A			bam	328372179
+TCGA-BRCA-291	TCGA		TCGA-A2-A0T6-01A			bam	132640722
+TCGA-BRCA-292	TCGA		TCGA-A2-A0ES-01A			bam	212398446
+TCGA-BRCA-293	TCGA		TCGA-A7-A0D9-01A			bam	342554002
+TCGA-BRCA-312	TCGA		TCGA-AO-A0JM-01A			bam	228088663
+TCGA-BRCA-313	TCGA		TCGA-A2-A0CX-01A			bam	264429086
+TCGA-BRCA-338	TCGA		TCGA-D8-A13Z-01A			bam	392640294
+TCGA-BRCA-339	TCGA		TCGA-A8-A08J-01A			bam	310310191
+TCGA-BRCA-347	TCGA		TCGA-A2-A0T7-01A			bam	291812321
+TCGA-BRCA-348	TCGA		TCGA-C8-A8HR-01A			bam	253002378
+TCGA-BRCA-349	TCGA		TCGA-A2-A4RX-01A			bam	284238095
+TCGA-BRCA-35	TCGA		TCGA-AR-A0TV-01A			bam	275102145
+TCGA-BRCA-36	TCGA		TCGA-A2-A0YD-01A			bam	271172799
+TCGA-BRCA-37	TCGA		TCGA-BH-A0DP-01A			bam	297254081
+TCGA-BRCA-379	TCGA		TCGA-AO-A0JB-01A			bam	325765202
+TCGA-BRCA-38	TCGA		TCGA-A2-A0SV-01A			bam	288822926
+TCGA-BRCA-380	TCGA		TCGA-AO-A0J5-01A			bam	127170822
+TCGA-BRCA-388	TCGA		TCGA-A2-A0EW-01A			bam	376291239
+TCGA-BRCA-389	TCGA		TCGA-A8-A094-01A			bam	325085620
+TCGA-BRCA-39	TCGA		TCGA-A2-A0T4-01A			bam	265151963
+TCGA-BRCA-397	TCGA		TCGA-C8-A130-01A			bam	284056302
+TCGA-BRCA-398	TCGA		TCGA-A7-A13E-01A			bam	322726571
+TCGA-BRCA-399	TCGA		TCGA-C8-A133-01A			bam	299019354
+TCGA-BRCA-400	TCGA		TCGA-BH-A0B1-01A			bam	306460723
+TCGA-BRCA-401	TCGA		TCGA-4H-AAAK-01A			bam	279873541
+TCGA-BRCA-402	TCGA		TCGA-BH-A0EE-01A			bam	249735381
+TCGA-BRCA-403	TCGA		TCGA-C8-A12K-01A			bam	246804521
+TCGA-BRCA-60	TCGA		TCGA-BH-A0E0-01A			bam	200858962
+TCGA-BRCA-61	TCGA		TCGA-A2-A0SX-01A			bam	224029933
+TCGA-BRCA-67	TCGA		TCGA-C8-A12V-01A			bam	394505035
+TCGA-CESC-107	TCGA		TCGA-EA-A3HT-01A			bam	85153663
+TCGA-CESC-345	TCGA		TCGA-EA-A3HT-01A			bam	280395324
+TCGA-CESC-381	TCGA		TCGA-EA-A3HS-01A			bam	337676914
+TCGA-CESC-383	TCGA		TCGA-EA-A3HT-01A			bam	189724840
+TCGA-CHOL-116	TCGA		TCGA-3X-AAVA-01A			bam	761901857
+TCGA-CHOL-125	TCGA		TCGA-ZH-A8Y5-01A			bam	329318895
+TCGA-CHOL-226	TCGA		TCGA-W6-AA0T-01A			bam	256251109
+TCGA-CHOL-242	TCGA		TCGA-W7-A93N-01A			bam	317444596
+TCGA-CHOL-407	TCGA		TCGA-ZH-A8Y7-01A			bam	299811948
+TCGA-COAD-106	TCGA		TCGA-SS-A7HO-01A			bam	359621509
+TCGA-COAD-119	TCGA		TCGA-NH-A8F7-01A			bam	472776205
+TCGA-COAD-14	TCGA		TCGA-AD-6889-01A			bam	314444290
+TCGA-COAD-142	TCGA		TCGA-AY-A69D-01A			bam	333460367
+TCGA-COAD-143	TCGA		TCGA-DM-A28G-01A			bam	363621665
+TCGA-COAD-144	TCGA		TCGA-AY-A71X-01A			bam	447222706
+TCGA-COAD-154	TCGA		TCGA-A6-A566-01A			bam	535461560
+TCGA-COAD-155	TCGA		TCGA-A6-A567-01A			bam	397587844
+TCGA-COAD-156	TCGA		TCGA-AA-A00L-01A			bam	447790218
+TCGA-COAD-157	TCGA		TCGA-QG-A5YX-01A			bam	273044598
+TCGA-COAD-166	TCGA		TCGA-AA-A01R-01A			bam	297179206
+TCGA-COAD-2	TCGA		TCGA-NH-A50V-01B			bam	300618811
+TCGA-COAD-247	TCGA		TCGA-QG-A5YV-01A			bam	1058702448
+TCGA-COAD-26	TCGA		TCGA-NH-A50U-01A			bam	340127085
+TCGA-COAD-272	TCGA		TCGA-AA-A00Q-01A			bam	350377870
+TCGA-COAD-274	TCGA		TCGA-3L-AA1B-01A			bam	305463579
+TCGA-COAD-275	TCGA		TCGA-AA-A02F-01A			bam	260397872
+TCGA-COAD-276	TCGA		TCGA-AY-A54L-01A			bam	326409158
+TCGA-COAD-3	TCGA		TCGA-AA-A010-01A			bam	352718554
+TCGA-COAD-30	TCGA		TCGA-AA-A01X-01A			bam	521769795
+TCGA-COAD-342	TCGA		TCGA-AA-A00E-01A			bam	389211665
+TCGA-COAD-343	TCGA		TCGA-AA-A010-01A			bam	308061445
+TCGA-COAD-344	TCGA		TCGA-NH-A8F8-01A			bam	364125785
+TCGA-COAD-357	TCGA		TCGA-AA-A01S-01A			bam	521393865
+TCGA-COAD-358	TCGA		TCGA-AA-A00J-01A			bam	327195273
+TCGA-COAD-359	TCGA		TCGA-AA-A024-01A			bam	295487073
+TCGA-COAD-360	TCGA		TCGA-AA-A02E-01A			bam	347064957
+TCGA-COAD-365	TCGA		TCGA-A6-A565-01A			bam	224367363
+TCGA-COAD-366	TCGA		TCGA-AA-A024-01A			bam	414604875
+TCGA-COAD-371	TCGA		TCGA-QL-A97D-01A			bam	346454530
+TCGA-COAD-384	TCGA		TCGA-AA-A01D-01A			bam	248302214
+TCGA-COAD-385	TCGA		TCGA-NH-A6GA-01A			bam	262277965
+TCGA-COAD-386	TCGA		TCGA-A6-A56B-01A			bam	274609736
+TCGA-COAD-387	TCGA		TCGA-AA-A022-01A			bam	261682840
+TCGA-COAD-408	TCGA		TCGA-AA-A010-01A			bam	309769763
+TCGA-COAD-409	TCGA		TCGA-4N-A93T-01A			bam	154808117
+TCGA-COAD-410	TCGA		TCGA-AA-A01P-01A			bam	180454774
+TCGA-COAD-46	TCGA		TCGA-NH-A5IV-01A			bam	292488152
+TCGA-COAD-8	TCGA		TCGA-AY-A8YK-01A			bam	241235553
+TCGA-COAD-89	TCGA		TCGA-AA-A00W-01A			bam	425659621
+TCGA-COAD-9	TCGA		TCGA-NH-A6GC-01A			bam	265252162
+TCGA-ESCA-103	TCGA		TCGA-IG-A51D-01A			bam	315161601
+TCGA-ESCA-117	TCGA		TCGA-IC-A6RE-01A			bam	314381430
+TCGA-ESCA-130	TCGA		TCGA-IG-A7DP-01A			bam	234448606
+TCGA-ESCA-134	TCGA		TCGA-IG-A4P3-01A			bam	85014828
+TCGA-ESCA-146	TCGA		TCGA-L5-A4OE-01A			bam	239295926
+TCGA-ESCA-161	TCGA		TCGA-LN-A49O-01A			bam	404532271
+TCGA-ESCA-162	TCGA		TCGA-LN-A9FQ-01A			bam	316413576
+TCGA-ESCA-228	TCGA		TCGA-IG-A625-01A			bam	259231054
+TCGA-ESCA-230	TCGA		TCGA-LN-A4MR-01A			bam	141767733
+TCGA-ESCA-234	TCGA		TCGA-IG-A3YA-01A			bam	335539678
+TCGA-ESCA-250	TCGA		TCGA-LN-A4A5-01A			bam	311748015
+TCGA-ESCA-254	TCGA		TCGA-LN-A4A2-01A			bam	232504500
+TCGA-ESCA-300	TCGA		TCGA-LN-A8HZ-01A			bam	165357858
+TCGA-ESCA-303	TCGA		TCGA-IG-A4QS-01A			bam	213492440
+TCGA-ESCA-327	TCGA		TCGA-LN-A49W-01A			bam	258691602
+TCGA-ESCA-328	TCGA		TCGA-L7-A6VZ-01A			bam	329815568
+TCGA-ESCA-330	TCGA		TCGA-LN-A7HX-01A			bam	258964599
+TCGA-ESCA-74	TCGA		TCGA-M9-A5M8-01A			bam	271541511
+TCGA-GBM-137	TCGA		TCGA-76-6656-01A			bam	266729369
+TCGA-GBM-241	TCGA		TCGA-OX-A56R-01A			bam	336870931
+TCGA-GBM-28	TCGA		TCGA-06-A5U0-01A			bam	246043494
+TCGA-GBM-346	TCGA		TCGA-81-5910-01A			bam	276278043
+TCGA-GBM-382	TCGA		TCGA-06-A7TL-01A			bam	412437934
+TCGA-GBM-4	TCGA		TCGA-06-A6S1-01A			bam	302920439
+TCGA-GBM-59	TCGA		TCGA-06-A7TK-01A			bam	266077776
+TCGA-GBM-81	TCGA		TCGA-4W-AA9S-01A			bam	245019302
+TCGA-GBM-84	TCGA		TCGA-RR-A6KB-01A			bam	227010671
+TCGA-HNSC-160	TCGA		TCGA-CN-A49B-01A			bam	101191890
+TCGA-HNSC-167	TCGA		TCGA-F7-A624-01A			bam	301360860
+TCGA-HNSC-172	TCGA		TCGA-CV-A468-01A			bam	157004560
+TCGA-HNSC-175	TCGA		TCGA-BA-A4IH-01A			bam	275423518
+TCGA-HNSC-204	TCGA		TCGA-H7-A76A-01A			bam	305119946
+TCGA-HNSC-207	TCGA		TCGA-D6-A6EP-01A			bam	269501968
+TCGA-HNSC-249	TCGA		TCGA-KU-A6H7-06A			bam	242265233
+TCGA-HNSC-82	TCGA		TCGA-BA-A8YP-01A			bam	335327476
+TCGA-HNSC-99	TCGA		TCGA-KU-A66S-01A			bam	534305997
+TCGA-KIRC-170	TCGA		TCGA-3Z-A93Z-01A			bam	291077648
+TCGA-KIRC-171	TCGA		TCGA-CJ-5677-01A			bam	248020116
+TCGA-KIRC-174	TCGA		TCGA-B8-A54J-01A			bam	276261698
+TCGA-KIRC-178	TCGA		TCGA-B8-A54H-01A			bam	420345170
+TCGA-KIRC-179	TCGA		TCGA-B8-A54E-01A			bam	245480752
+TCGA-KIRC-223	TCGA		TCGA-CJ-5679-01A			bam	306364862
+TCGA-KIRC-236	TCGA		TCGA-B8-A54F-01A			bam	338853411
+TCGA-KIRC-263	TCGA		TCGA-DV-A4VX-01A			bam	1333702815
+TCGA-KIRC-302	TCGA		TCGA-B8-A54G-01A			bam	1037480356
+TCGA-KIRC-320	TCGA		TCGA-GK-A6C7-01A			bam	318350982
+TCGA-KIRC-321	TCGA		TCGA-MM-A564-01A			bam	317984578
+TCGA-KIRC-41	TCGA		TCGA-B2-A4SR-01A			bam	241731909
+TCGA-KIRC-69	TCGA		TCGA-6D-AA2E-01A			bam	266605950
+TCGA-KIRC-78	TCGA		TCGA-B8-A8YJ-01A			bam	314839622
+TCGA-KIRC-79	TCGA		TCGA-B8-A54K-01A			bam	267926942
+TCGA-KIRC-80	TCGA		TCGA-CJ-5671-01A			bam	231775139
+TCGA-KIRP-163	TCGA		TCGA-B1-A47N-01A			bam	306030742
+TCGA-KIRP-164	TCGA		TCGA-KV-A74V-01A			bam	279161959
+TCGA-KIRP-165	TCGA		TCGA-UZ-A9PL-01A			bam	344612854
+TCGA-KIRP-169	TCGA		TCGA-B9-A5W9-01A			bam	519715709
+TCGA-KIRP-180	TCGA		TCGA-4A-A93X-01A			bam	1685508515
+TCGA-KIRP-200	TCGA		TCGA-F9-A7Q0-01A			bam	297695999
+TCGA-KIRP-202	TCGA		TCGA-B9-A8YI-01A			bam	433731339
+TCGA-KIRP-203	TCGA		TCGA-HE-A5NI-01A			bam	230602484
+TCGA-KIRP-205	TCGA		TCGA-HE-A5NK-01A			bam	271425280
+TCGA-KIRP-206	TCGA		TCGA-P4-A5E6-01A			bam	394171926
+TCGA-KIRP-22	TCGA		TCGA-PJ-A8JU-01A			bam	301234370
+TCGA-KIRP-231	TCGA		TCGA-IA-A40U-01A			bam	269638561
+TCGA-KIRP-240	TCGA		TCGA-HE-A5NJ-01A			bam	490710403
+TCGA-KIRP-246	TCGA		TCGA-Q2-A5QZ-01A			bam	282882270
+TCGA-KIRP-252	TCGA		TCGA-UZ-A9PJ-01A			bam	293707317
+TCGA-KIRP-253	TCGA		TCGA-F9-A7VF-01A			bam	376329771
+TCGA-KIRP-257	TCGA		TCGA-HE-A5NH-01A			bam	333260457
+TCGA-KIRP-27	TCGA		TCGA-GL-A9DC-01A			bam	319111927
+TCGA-KIRP-29	TCGA		TCGA-4A-A93Y-01A			bam	400177519
+TCGA-KIRP-299	TCGA		TCGA-2K-A9WE-01A			bam	284993990
+TCGA-KIRP-308	TCGA		TCGA-B1-A654-01A			bam	377671579
+TCGA-KIRP-31	TCGA		TCGA-F9-A8NY-01A			bam	955055927
+TCGA-KIRP-323	TCGA		TCGA-UZ-A9PP-01A			bam	289379594
+TCGA-KIRP-367	TCGA		TCGA-B9-A44B-01A			bam	278907406
+TCGA-KIRP-368	TCGA		TCGA-P4-A5EA-01A			bam	299243707
+TCGA-KIRP-372	TCGA		TCGA-UZ-A9PK-01A			bam	303647333
+TCGA-KIRP-43	TCGA		TCGA-UZ-A9PQ-01A			bam	368806883
+TCGA-KIRP-44	TCGA		TCGA-UZ-A9PV-01A			bam	392746568
+TCGA-KIRP-45	TCGA		TCGA-P4-A5EB-01A			bam	336884014
+TCGA-KIRP-54	TCGA		TCGA-P4-A5ED-01B			bam	689519107
+TCGA-KIRP-70	TCGA		TCGA-UZ-A9PM-01A			bam	268852083
+TCGA-KIRP-72	TCGA		TCGA-IA-A40X-01A			bam	415922567
+TCGA-KIRP-73	TCGA		TCGA-P4-AAVL-01A			bam	269498134
+TCGA-KIRP-98	TCGA		TCGA-B9-A5W8-01A			bam	355511750
+TCGA-LGG-104	TCGA		TCGA-DB-A75K-01A			bam	243014353
+TCGA-LGG-159	TCGA		TCGA-DU-6395-02A			bam	391995611
+TCGA-LGG-243	TCGA		TCGA-DU-5870-02A			bam	291574930
+TCGA-LGG-251	TCGA		TCGA-W9-A837-01A			bam	144994719
+TCGA-LGG-331	TCGA		TCGA-P5-A72W-01A			bam	306112028
+TCGA-LGG-336	TCGA		TCGA-F6-A8O3-01A			bam	333082460
+TCGA-LGG-337	TCGA		TCGA-P5-A72X-01A			bam	100289786
+TCGA-LGG-351	TCGA		TCGA-P5-A77X-01A			bam	289645396
+TCGA-LGG-355	TCGA		TCGA-FG-A4MY-01A			bam	281635036
+TCGA-LGG-391	TCGA		TCGA-FG-A4MU-01B			bam	402397513
+TCGA-LGG-392	TCGA		TCGA-P5-A735-01A			bam	222950598
+TCGA-LGG-55	TCGA		TCGA-E1-A7YI-01A			bam	363470446
+TCGA-LGG-56	TCGA		TCGA-DU-6407-02B			bam	280191987
+TCGA-LIHC-126	TCGA		TCGA-CC-A7IF-01A			bam	421291073
+TCGA-LIHC-149	TCGA		TCGA-LG-A9QC-01A			bam	322845949
+TCGA-LIHC-220	TCGA		TCGA-BC-A3KF-01A			bam	255483251
+TCGA-LIHC-224	TCGA		TCGA-BC-A10W-01A			bam	353955156
+TCGA-LIHC-225	TCGA		TCGA-G3-AAV0-01A			bam	318091455
+TCGA-LIHC-237	TCGA		TCGA-BC-A10U-01A			bam	988743791
+TCGA-LIHC-256	TCGA		TCGA-BC-A10X-01A			bam	322773141
+TCGA-LIHC-258	TCGA		TCGA-DD-AACB-01A			bam	253475467
+TCGA-LIHC-259	TCGA		TCGA-DD-AAC8-01A			bam	682656175
+TCGA-LIHC-271	TCGA		TCGA-BC-A10S-01A			bam	415362833
+TCGA-LIHC-305	TCGA		TCGA-BC-A5W4-01A			bam	281211229
+TCGA-LIHC-354	TCGA		TCGA-CC-A123-01A			bam	330754826
+TCGA-LIHC-40	TCGA		TCGA-DD-AACI-01A			bam	306623550
+TCGA-LIHC-42	TCGA		TCGA-BC-A8YO-01A			bam	331807369
+TCGA-LIHC-68	TCGA		TCGA-DD-AACL-01A			bam	214797521
+TCGA-LIHC-83	TCGA		TCGA-LG-A9QD-01A			bam	368171287
+TCGA-LUAD-108	TCGA		TCGA-MP-A4SV-01A			bam	265778049
+TCGA-LUAD-189	TCGA		TCGA-49-AARO-01A			bam	433196573
+TCGA-LUAD-190	TCGA		TCGA-4B-A93V-01A			bam	204623664
+TCGA-LUAD-260	TCGA		TCGA-L4-A4E6-01A			bam	397010950
+TCGA-LUAD-270	TCGA		TCGA-86-A4P7-01A			bam	321850572
+TCGA-LUAD-297	TCGA		TCGA-MP-A4TE-01A			bam	346949009
+TCGA-LUAD-298	TCGA		TCGA-93-A4JQ-01A			bam	201523689
+TCGA-LUAD-306	TCGA		TCGA-93-A4JN-01A			bam	274156590
+TCGA-LUAD-32	TCGA		TCGA-86-A4D0-01A			bam	789561927
+TCGA-LUAD-33	TCGA		TCGA-44-6146-01A			bam	1032306298
+TCGA-LUAD-363	TCGA		TCGA-MP-A4T4-01A			bam	301432823
+TCGA-LUAD-364	TCGA		TCGA-L9-A8F4-01A			bam	372278432
+TCGA-LUAD-375	TCGA		TCGA-91-A4BD-01A			bam	389690804
+TCGA-LUAD-376	TCGA		TCGA-44-3918-01A			bam	251365530
+TCGA-LUAD-377	TCGA		TCGA-73-A9RS-01A			bam	286138409
+TCGA-LUAD-378	TCGA		TCGA-93-A4JO-01A			bam	262368677
+TCGA-LUAD-395	TCGA		TCGA-91-A4BC-01A			bam	253120854
+TCGA-LUAD-396	TCGA		TCGA-MP-A4T7-01A			bam	226261658
+TCGA-LUAD-5	TCGA		TCGA-MP-A4TF-01A			bam	259155217
+TCGA-LUAD-51	TCGA		TCGA-86-A4P8-01A			bam	397069700
+TCGA-LUAD-52	TCGA		TCGA-NJ-A4YG-01A			bam	262923348
+TCGA-LUAD-6	TCGA		TCGA-44-A47F-01A			bam	402293896
+TCGA-LUSC-120	TCGA		TCGA-98-A53J-01A			bam	336750618
+TCGA-LUSC-132	TCGA		TCGA-85-A512-01A			bam	467409836
+TCGA-LUSC-15	TCGA		TCGA-O2-A52N-01A			bam	245701124
+TCGA-LUSC-16	TCGA		TCGA-37-A5EM-01A			bam	259509989
+TCGA-LUSC-18	TCGA		TCGA-85-A4CN-01A			bam	305640831
+TCGA-LUSC-19	TCGA		TCGA-MF-A522-01A			bam	227154303
+TCGA-LUSC-195	TCGA		TCGA-33-A4WN-01A			bam	413377932
+TCGA-LUSC-245	TCGA		TCGA-85-A4QR-01A			bam	312739013
+TCGA-LUSC-273	TCGA		TCGA-XC-AA0X-01A			bam	247507126
+TCGA-LUSC-294	TCGA		TCGA-85-A50M-01A			bam	259946004
+TCGA-LUSC-295	TCGA		TCGA-85-A4JB-01A			bam	251415794
+TCGA-LUSC-324	TCGA		TCGA-J1-A4AH-01A			bam	249914931
+TCGA-LUSC-325	TCGA		TCGA-98-A53A-01A			bam	306432590
+TCGA-LUSC-326	TCGA		TCGA-63-A5MR-01A			bam	282527329
+TCGA-LUSC-34	TCGA		TCGA-77-A5G6-01A			bam	267924031
+TCGA-LUSC-373	TCGA		TCGA-85-A4CL-01A			bam	356818434
+TCGA-MESO-141	TCGA		TCGA-3U-A98I-01A			bam	418841564
+TCGA-MESO-21	TCGA		TCGA-LK-A4NY-01A			bam	462566185
+TCGA-MESO-221	TCGA		TCGA-LK-A4NW-01A			bam	770895231
+TCGA-MESO-222	TCGA		TCGA-LK-A4O6-01A			bam	353356648
+TCGA-MESO-315	TCGA		TCGA-SH-A9CU-01A			bam	354686270
+TCGA-MESO-369	TCGA		TCGA-3U-A98E-01A			bam	284157183
+TCGA-MESO-394	TCGA		TCGA-MQ-A4KX-01A			bam	374783620
+TCGA-PCPG-145	TCGA		TCGA-QT-A5XM-01A			bam	279365961
+TCGA-PCPG-158	TCGA		TCGA-RW-A8AZ-01A			bam	712888935
+TCGA-PCPG-176	TCGA		TCGA-TT-A6YP-01A			bam	235536090
+TCGA-PCPG-181	TCGA		TCGA-WB-A818-01A			bam	265040329
+TCGA-PCPG-235	TCGA		TCGA-QT-A69Q-01A			bam	359713112
+TCGA-PCPG-48	TCGA		TCGA-QT-A5XN-01A			bam	342930952
+TCGA-PCPG-50	TCGA		TCGA-RT-A6YA-01A			bam	332828475
+TCGA-PCPG-58	TCGA		TCGA-QT-A5XJ-01A			bam	255516662
+TCGA-PCPG-7	TCGA		TCGA-RM-A68W-01A			bam	299303222
+TCGA-PRAD-102	TCGA		TCGA-EJ-A46H-01A			bam	362263258
+TCGA-PRAD-105	TCGA		TCGA-EJ-7318-01B			bam	278367249
+TCGA-PRAD-129	TCGA		TCGA-VN-A88K-01A			bam	320507868
+TCGA-PRAD-138	TCGA		TCGA-EJ-A7NM-01A			bam	265527717
+TCGA-PRAD-227	TCGA		TCGA-EJ-A46E-01A			bam	267010053
+TCGA-PRAD-23	TCGA		TCGA-SU-A7E7-01A			bam	269295296
+TCGA-PRAD-255	TCGA		TCGA-YL-A8SB-01A			bam	273599555
+TCGA-PRAD-278	TCGA		TCGA-ZG-A9L1-01A			bam	276386972
+TCGA-PRAD-279	TCGA		TCGA-EJ-A8FP-01A			bam	311406370
+TCGA-PRAD-280	TCGA		TCGA-YL-A8SP-01B			bam	227832465
+TCGA-PRAD-281	TCGA		TCGA-EJ-A46G-01A			bam	270196817
+TCGA-PRAD-296	TCGA		TCGA-VP-A875-01A			bam	263191397
+TCGA-PRAD-301	TCGA		TCGA-EJ-A46F-01A			bam	389577037
+TCGA-PRAD-304	TCGA		TCGA-KC-A4BV-01A			bam	263938897
+TCGA-PRAD-329	TCGA		TCGA-YL-A9WK-01A			bam	245176441
+TCGA-PRAD-352	TCGA		TCGA-ZG-A9L0-01A			bam	411655595
+TCGA-PRAD-353	TCGA		TCGA-EJ-A8FN-01A			bam	226698420
+TCGA-PRAD-390	TCGA		TCGA-EJ-A46B-01A			bam	328000584
+TCGA-PRAD-65	TCGA		TCGA-ZG-A9L2-01A			bam	373061896
+TCGA-PRAD-66	TCGA		TCGA-EJ-A7NG-01A			bam	237130993
+TCGA-PRAD-75	TCGA		TCGA-EJ-A65B-01A			bam	299180589
+TCGA-PRAD-76	TCGA		TCGA-EJ-7218-01B			bam	310675202
+TCGA-PRAD-85	TCGA		TCGA-EJ-A65F-01A			bam	285284509
+TCGA-PRAD-86	TCGA		TCGA-EJ-A46D-01A			bam	290691886
+TCGA-PRAD-87	TCGA		TCGA-YL-A8SL-01B			bam	278245920
+TCGA-PRAD-88	TCGA		TCGA-YL-A8HJ-01A			bam	281386513
+TCGA-SKCM-148	TCGA		TCGA-XV-AAZY-01A			bam	249122591
+TCGA-SKCM-187	TCGA		TCGA-EB-A5SH-06A			bam	317908937
+TCGA-SKCM-188	TCGA		TCGA-D9-A1JW-06A			bam	439545631
+TCGA-SKCM-198	TCGA		TCGA-DA-A95W-06A			bam	364216727
+TCGA-SKCM-199	TCGA		TCGA-EB-A24C-01A			bam	421005499
+TCGA-SKCM-229	TCGA		TCGA-D3-A8GM-06A			bam	305439075
+TCGA-SKCM-24	TCGA		TCGA-D9-A6EA-06A			bam	284242303
+TCGA-SKCM-25	TCGA		TCGA-EB-A3Y6-01A			bam	112502794
+TCGA-SKCM-268	TCGA		TCGA-D3-A8GP-06A			bam	367858182
+TCGA-SKCM-314	TCGA		TCGA-EB-A5KH-06A			bam	305087606
+TCGA-SKCM-370	TCGA		TCGA-EB-A3XF-01A			bam	105478947
+TCGA-SKCM-93	TCGA		TCGA-DA-A95Y-06A			bam	357860386
+TCGA-SKCM-94	TCGA		TCGA-D9-A6EC-06A			bam	458102447
+TCGA-STAD-10	TCGA		TCGA-BR-A4IY-01A			bam	262945533
+TCGA-STAD-121	TCGA		TCGA-CD-A486-01A			bam	321956527
+TCGA-STAD-122	TCGA		TCGA-D7-A4YX-01A			bam	265444443
+TCGA-STAD-131	TCGA		TCGA-VQ-A91E-01A			bam	264526721
+TCGA-STAD-133	TCGA		TCGA-BR-A4J4-01A			bam	286536623
+TCGA-STAD-135	TCGA		TCGA-CD-A48C-01A			bam	278005856
+TCGA-STAD-17	TCGA		TCGA-BR-A4QL-01A			bam	119743262
+TCGA-STAD-177	TCGA		TCGA-BR-A452-01A			bam	248032521
+TCGA-STAD-269	TCGA		TCGA-VQ-A91W-01A			bam	316250206
+TCGA-STAD-277	TCGA		TCGA-D7-A6EZ-01A			bam	233317072
+TCGA-STAD-318	TCGA		TCGA-BR-A4J7-01A			bam	266716395
+TCGA-STAD-319	TCGA		TCGA-BR-A4J6-01A			bam	256198114
+TCGA-STAD-332	TCGA		TCGA-BR-A4J1-01A			bam	296250612
+TCGA-STAD-333	TCGA		TCGA-BR-A4J2-01A			bam	247210499
+TCGA-STAD-340	TCGA		TCGA-HF-A5NB-01A			bam	249069667
+TCGA-STAD-361	TCGA		TCGA-BR-A4J9-01A			bam	288174579
+TCGA-STAD-362	TCGA		TCGA-BR-A4CR-01A			bam	355948014
+TCGA-STAD-374	TCGA		TCGA-BR-A4J5-01A			bam	432613034
+TCGA-STAD-47	TCGA		TCGA-VQ-A8PJ-01A			bam	324163030
+TCGA-STAD-64	TCGA		TCGA-VQ-A94O-01A			bam	296399225
+TCGA-STAD-91	TCGA		TCGA-BR-A4CS-01A			bam	659036716
+TCGA-TGCT-123	TCGA		TCGA-XE-AANI-01A			bam	738507851
+TCGA-TGCT-168	TCGA		TCGA-2G-AAKG-05A			bam	253122976
+TCGA-TGCT-20	TCGA		TCGA-4K-AA1I-01A			bam	337373057
+TCGA-TGCT-232	TCGA		TCGA-2G-AAFM-01A			bam	276516368
+TCGA-TGCT-316	TCGA		TCGA-XE-AAOF-01A			bam	240662530
+TCGA-TGCT-317	TCGA		TCGA-XE-AAOD-01A			bam	314806630
+TCGA-TGCT-393	TCGA		TCGA-2G-AAGS-01A			bam	309600674
+TCGA-TGCT-53	TCGA		TCGA-2G-AAFO-01A			bam	307981156
+TCGA-TGCT-97	TCGA		TCGA-2G-AAH8-01A			bam	340103614
+TCGA-THCA-127	TCGA		TCGA-BJ-A0Z2-01A			bam	254142268
+TCGA-THCA-128	TCGA		TCGA-BJ-A0ZA-01A			bam	682831137
+TCGA-THCA-13	TCGA		TCGA-BJ-A0Z3-01A			bam	304837964
+TCGA-THCA-173	TCGA		TCGA-BJ-A290-01A			bam	470750384
+TCGA-THCA-196	TCGA		TCGA-DJ-A13V-01A			bam	273035732
+TCGA-THCA-197	TCGA		TCGA-DJ-A13X-01A			bam	271476708
+TCGA-THCA-219	TCGA		TCGA-BJ-A3PU-01A			bam	381679727
+TCGA-THCA-233	TCGA		TCGA-4C-A93U-01A			bam	246818094
+TCGA-THCA-238	TCGA		TCGA-BJ-A192-01A			bam	525564656
+TCGA-THCA-356	TCGA		TCGA-CE-A13K-01A			bam	367890906
+TCGA-THCA-404	TCGA		TCGA-BJ-A0ZC-01A			bam	230830665
+TCGA-THCA-49	TCGA		TCGA-BJ-A0Z5-01A			bam	387409378
+TCGA-THCA-57	TCGA		TCGA-BJ-A0Z0-01A			bam	285406787
+TCGA-THCA-92	TCGA		TCGA-DJ-A13M-01A			bam	365668501
+TCGA-UCEC-1	TCGA		TCGA-AP-A051-01A			bam	263004334
+TCGA-UCEC-139	TCGA		TCGA-BG-A0RY-01A			bam	269212675
+TCGA-UCEC-147	TCGA		TCGA-BG-A0MH-01A			bam	243375825
+TCGA-UCEC-182	TCGA		TCGA-B5-A0JN-01A			bam	241410806
+TCGA-UCEC-262	TCGA		TCGA-BG-A0MK-01A			bam	407443989
+TCGA-UCEC-309	TCGA		TCGA-BK-A0C9-01A			bam	325474294
+TCGA-UCEC-334	TCGA		TCGA-B5-A11Y-01A			bam	247221321
+TCGA-UCEC-335	TCGA		TCGA-B5-A0JT-01A			bam	131546408
+TCGA-UCEC-350	TCGA		TCGA-BG-A0MS-01A			bam	364774462
+TCGA-UCEC-405	TCGA		TCGA-B5-A0K9-01A			bam	297311715
+TCGA-UCEC-62	TCGA		TCGA-BG-A0M8-01A			bam	296584788
+TCGA-UCEC-63	TCGA		TCGA-B5-A0KB-01A			bam	101526377
+TCGA-UCEC-96	TCGA		TCGA-BK-A13B-01A			bam	267483831
