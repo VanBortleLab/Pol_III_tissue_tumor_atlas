@@ -12,7 +12,8 @@ We applied a uniform gene-centered framework for scoring RNA polymerase III (Pol
 
 ## Underlying Data
 
-ATAC-Seq experiments were obtained from different sources (ENCODE, GSE164942, GSE96949, TCGA). Technical replicates were aggregated for each unique experiment. 
+ATAC-seq FASTQ files were obtained from multiple sources (see below), and all technical replicates were aggregated per unique experiment:
+
 Full list: Click [Here](https://github.com/VanBortleLab/Pol_III_tissue_tumor_atlas/blob/main/files_processing/files_metadata/Tissue_TCGA_atlas_samples_metadata.txt)
 
 <details><summary>Example list (<b>click to expand</b>) </summary>
