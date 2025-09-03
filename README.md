@@ -5,12 +5,12 @@
 
 We applied a uniform gene-centered framework for scoring RNA polymerase III (Pol III) activity at canonical Pol III-transcribed genes on the basis of chromatin accessibility measured using ATAC-seq. We specifically surveyed ATAC across large-scale data repositories and studies (ENCODE, The Cancer Genome Atlas, as well as GSE96949 and GSE164942) and infer active and inactive gene states following uniform scaling and saturation analysis (ATAC of insufficient depth and saturation at uniform scale were discarded). This repository specifically includes details and links to processed files related to our manuscript:
 
-    An RNA polymerase III tissue and tumor atlas uncovers context- 
-    specific activities linked to 3D epigenome regulatory mechanisms
-    Simon Lizarazo, Sihang Zhou, Ruiying Cheng, Rajendra K C, Yawei Shen, Qing Liu*, Kevin Van Bortle*
-    https://www.biorxiv.org/content/10.1101/2025.08.28.672650v1  
-    
-    [![Manuscript](images/Lizarazo_et_al.png)](https://www.biorxiv.org/content/10.1101/2025.08.28.672650v1)
+    An RNA polymerase III tissue and tumor atlas uncovers context-specific activities  
+    linked to 3D epigenome regulatory mechanisms
+    Simon Lizarazo, Sihang Zhou, Ruiying Cheng, Rajendra K C, Yawei Shen, Qing Liu, Kevin Van Bortle
+    https://www.biorxiv.org/content/10.1101/2025.08.28.672650v1     
+       
+[![Manuscript](images/Lizarazo_et_al.png)](https://www.biorxiv.org/content/10.1101/2025.08.28.672650v1)
 
 
 ## Underlying Data
