@@ -79,9 +79,9 @@ Full list: Click [Here](https://github.com/VanBortleLab/Pol_III_tissue_tumor_atl
 **Signal track files** corresponding to our processed 
 
 
-**[Click here](https://tinyurl.com/29rey6al) (or the recording below) to instantly visualize these tracks on IGV**
+**[Click here](https://tinyurl.com/3672p6cr) (or the recording below) to instantly visualize these tracks on IGV**
 
-[![IGV Session](images/igv-session.gif)](https://tinyurl.com/29rey6al)
+[![IGV Session](images/igv-session.gif)](https://tinyurl.com/3672p6cr)
 
 
    
