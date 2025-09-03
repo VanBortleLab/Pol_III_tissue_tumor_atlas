@@ -76,7 +76,7 @@ Full list: Click [Here](https://github.com/VanBortleLab/Pol_III_tissue_tumor_atl
   
 # Data formats
 
-**Signal track files** corresponding to our processed 
+**Tissue- and Tumor-annotated track files** that communicate the "ON" state of each canonical Pol III-transcribed gene class are available for browsing on IGV. In brief, gene sets corresponding to the tissue and tumor atlases described in Lizarazo et al. are compiled into a composite Bed files, with each entry denoting "ON" state in a corresponding tissue or tumor subtype. 
 
 
 **[Click here](https://tinyurl.com/3672p6cr) (or the recording below) to instantly visualize these tracks on IGV**
