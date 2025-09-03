@@ -70,3 +70,19 @@ Full list: Click [Here](https://github.com/VanBortleLab/Pol_III_tissue_tumor_atl
 |366 |TCGA-BRCA-35                                                                   |TCGA        |            |TCGA-AR-A0TV-01A |                     |             |bam    |  275102145| 
 |367 |TCGA-BRCA-36                                                                   |TCGA        |            |TCGA-A2-A0YD-01A |                     |             |bam    |  271172799|
 </details>
+  
+  
+  
+  
+# Data formats
+
+**Signal track files** corresponding to our processed 
+
+
+**[Click here](https://tinyurl.com/29rey6al) (or the recording below) to instantly visualize these tracks on IGV**
+
+[![IGV Session](images/igv-session.gif)](https://tinyurl.com/29rey6al)
+
+
+   
+   
